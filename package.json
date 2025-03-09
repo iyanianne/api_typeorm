@@ -11,6 +11,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "joi": "^17.13.3",
+    "mysql": "^2.18.1",
     "mysql2": "^3.13.0",
     "rootpath": "^0.1.2",
     "sequelize": "^6.37.6"
@@ -21,5 +22,13 @@
   "main": "server.js",
   "keywords": [],
   "author": "",
-  "description": ""
+  "description": "API_TYPEORM File",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyanianne/api_typeorm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iyanianne/api_typeorm/issues"
+  },
+  "homepage": "https://github.com/iyanianne/api_typeorm#readme"
 }
